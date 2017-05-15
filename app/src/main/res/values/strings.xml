@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVCStructure</string>
+    <string name="to_second_fragment">To Second Fragment</string>
+    <string name="i_am_second_fragment">I am second fragment.</string>
+</resources>
